@@ -1,0 +1,9 @@
+/Users/prashanth/halide-projects/halide_histogram/build/CMakeFiles/intrinsics_gen.dir
+/Users/prashanth/halide-projects/halide_histogram/build/CMakeFiles/omp_gen.dir
+/Users/prashanth/halide-projects/halide_histogram/build/CMakeFiles/acc_gen.dir
+/Users/prashanth/halide-projects/halide_histogram/build/CMakeFiles/ARMTargetParserTableGen.dir
+/Users/prashanth/halide-projects/halide_histogram/build/CMakeFiles/AArch64TargetParserTableGen.dir
+/Users/prashanth/halide-projects/halide_histogram/build/CMakeFiles/RISCVTargetParserTableGen.dir
+/Users/prashanth/halide-projects/halide_histogram/build/CMakeFiles/histogram_equalizer.dir
+/Users/prashanth/halide-projects/halide_histogram/build/CMakeFiles/edit_cache.dir
+/Users/prashanth/halide-projects/halide_histogram/build/CMakeFiles/rebuild_cache.dir
